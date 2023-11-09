@@ -5,7 +5,7 @@
 #include "utility.h"
 
 
-using namespace std;
+/*
 
 int countPrimes(int a[], int size) {
   string temp;
@@ -17,4 +17,8 @@ int countPrimes(int a[], int size) {
   }
   }
  return count; 
+}
+*/
+int countPrimes(int a[], int size) {
+  return -42; // STUB!  Replace with correct code.
 }
