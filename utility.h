@@ -9,8 +9,11 @@
 // You will need to include the function prototype in "utility.h" and
 // then be sure to  #include "utility.h" in the file where you use
 // these functions
+#ifndef UTILITY_H
+#define UTILITY_H
 
 
 bool isOdd(int x);
 bool isEven(int x);
 bool isPrime(int x);
+#endif
