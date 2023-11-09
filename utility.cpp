@@ -10,7 +10,6 @@
 // then be sure to  #include "utility.h" in the file where you use
 // these functions
 
-#include "utility.h"
 
 bool isOdd(int x) { 
 if(x%2 == 1 || x%2 == (-1)){
