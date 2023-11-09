@@ -10,6 +10,7 @@
 // then be sure to  #include "utility.h" in the file where you use
 // these functions
 
+
 bool isOdd(int x);
 bool isEven(int x);
 bool isPrime(int x);
