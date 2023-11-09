@@ -41,7 +41,7 @@ bool isEven(int x) {
 }
 bool isPrime(int x) { 
  if(x<0){
- x = (-x);
+ return false;
  }
 if(x < 2){
   return false;}
